@@ -18,3 +18,5 @@ Server and Bot Owner account: Unbanned
 > SMS: +1-781-412-4065
 > Email: hello at tyler hoban dot com
 > Other methods are listed on https://tylerhoban.com, but may be abandoned or inactive.
+
+ITS OVER
