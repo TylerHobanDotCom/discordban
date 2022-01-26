@@ -5,6 +5,7 @@
 > Bot User: Spectre#2754 (859740270559887370): Unbanned, API access throttled
   Invite Link: https://discord.com/oauth2/authorize?client_id=859740270559887370&scope=bot&permissions=0
 
+> Note: as of 1/26/2022, my administration account Robloxian Noob#2084 has been disabled. Appeal is sent, not expecting anything tho.
 
 All main or alt accounts before 8/6/2021: **Banned**
 
