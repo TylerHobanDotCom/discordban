@@ -5,7 +5,7 @@
 > Bot User: Spectre#2754 (859740270559887370): ~~Unbanned, API access throttled~~ Not in use currently.
   Invite Link: https://discord.com/oauth2/authorize?client_id=859740270559887370&scope=bot&permissions=0
 
-> Moderation/Administration Account: Non-Fungible Noob#4224 (935887492568186880) Unbanned
+> Moderation/Administration Account: Noob#8888 (935887492568186880) Unbanned
 
 > For support, data/privacy, dmca, etc..: https://discord.gg/gnB3uhebam (Multiple Responders, but still an acceptable way to reach me.)
 
@@ -26,6 +26,6 @@ Server and Bot Owner accounts: Unbanned
 
 > Email: hello at tyler hoban dot com
 
-> Matrix: @tylerhoban:matrix.org
+> Matrix: @t:matrix.trihard.space
 
 > Other methods are listed on https://tylerhoban.com, but may be abandoned or inactive.
