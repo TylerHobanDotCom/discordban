@@ -28,7 +28,6 @@ Server and Bot Owner accounts: Unbanned
 
 > Email: hello at tyler hoban dot com
 
-~~> Matrix: @t:matrix.trihard.space ~~
-fucked
+~~Matrix: @t:matrix.trihard.space~~ fucked
 
 > Other methods are listed on https://tylerhoban.com, but may be abandoned or inactive.
