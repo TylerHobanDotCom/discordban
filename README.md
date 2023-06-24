@@ -5,12 +5,14 @@
 > Bot User: Spectre#2754 (859740270559887370): ~~Unbanned, API access throttled~~ Not in use currently.
   Invite Link: https://discord.com/oauth2/authorize?client_id=859740270559887370&scope=bot&permissions=0
 
-> Moderation/Administration Account: Spectre#3882 (1112576073394294865) Unbanned
+> Moderation/Administration Account: wpmx#0 Unbanned
 
 > For support, data/privacy, dmca, etc..: https://discord.gg/gnB3uhebam (Multiple Responders, but still an acceptable way to reach me.)
 
 
 All main or alt accounts before 8/6/2021: **Termed or lost**
+
+Spectre#3882 (1112576073394294865) Termed, appeal denied.
 
 Noob#8888 (935887492568186880) Termed, appeal denied.
 
