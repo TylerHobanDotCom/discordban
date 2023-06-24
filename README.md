@@ -5,7 +5,7 @@
 > Bot User: Spectre#2754 (859740270559887370): ~~Unbanned, API access throttled~~ Not in use currently.
   Invite Link: https://discord.com/oauth2/authorize?client_id=859740270559887370&scope=bot&permissions=0
 
-> Moderation/Administration Account: wpmx#0 Unbanned
+> Moderation/Administration Account: @wpmx Unbanned
 
 > For support, data/privacy, dmca, etc..: https://discord.gg/gnB3uhebam (Multiple Responders, but still an acceptable way to reach me.)
 
